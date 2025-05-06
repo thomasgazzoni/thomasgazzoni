@@ -7,8 +7,8 @@
 	<a href="https://github.com/sponsors/thomasgazzoni"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
 
-- 🔭 I’m currently working on React Native and Flutter
+- 🔭 I’m currently working on AI tools and blockchain
 - 👨🏻‍💻 I'm a Full-Stack Web Developer
-- ☕ I’m learning Flutter Engine ecosystem
+- ☕ Loving the intricacy of Go and Rust
 
 👇🏻 Here are some of the Open Source projects I work on: 👇🏻
